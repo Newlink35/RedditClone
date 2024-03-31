@@ -1,0 +1,261 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "/home/ali/Desktop/Projectreddit/Reddit-React-Clone---React-Project-2---obr0ayuztxh4",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2023-12-17 21:05:53",
+            "filesum": 33,
+            "codesum": 19932,
+            "commentsum": 57,
+            "blanksum": 180,
+            "statistics": {
+                "": {
+                    "code": 18,
+                    "comment": 2,
+                    "blank": 5
+                },
+                ".js": {
+                    "code": 133,
+                    "comment": 7,
+                    "blank": 26
+                },
+                ".jsx": {
+                    "code": 769,
+                    "comment": 21,
+                    "blank": 129
+                },
+                ".css": {
+                    "code": 12,
+                    "comment": 0,
+                    "blank": 1
+                },
+                ".md": {
+                    "code": 21,
+                    "comment": 4,
+                    "blank": 15
+                },
+                ".html": {
+                    "code": 20,
+                    "comment": 23,
+                    "blank": 0
+                },
+                ".svg": {
+                    "code": 2,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".json": {
+                    "code": 18957,
+                    "comment": 0,
+                    "blank": 4
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 5,
+                    "code": 18,
+                    "comment": 1,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 2,
+                    "code": 18916,
+                    "comment": 0,
+                    "filename": "package-lock.json"
+                },
+                {
+                    "blank": 2,
+                    "code": 41,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 1,
+                    "filename": "public/_redirects"
+                },
+                {
+                    "filename": "public/images/googlelogo.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "public/images/recCommsArt.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "public/images/redditFace.svg"
+                },
+                {
+                    "filename": "public/images/redditlogo.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "public/images/redditPersonalHome.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "public/images/redditText.svg"
+                },
+                {
+                    "blank": 0,
+                    "code": 20,
+                    "comment": 23,
+                    "filename": "public/index.html"
+                },
+                {
+                    "blank": 15,
+                    "code": 21,
+                    "comment": 4,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 4,
+                    "code": 41,
+                    "comment": 1,
+                    "filename": "src/chakra/button.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 25,
+                    "comment": 2,
+                    "filename": "src/chakra/theme.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "src/components/App.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "src/components/Layout/Layout.jsx"
+                },
+                {
+                    "blank": 13,
+                    "code": 40,
+                    "comment": 0,
+                    "filename": "src/components/Modal/Authsignup/AuthModal.jsx"
+                },
+                {
+                    "blank": 21,
+                    "code": 168,
+                    "comment": 10,
+                    "filename": "src/components/Modal/Authsignup/AuthSignputs.jsx"
+                },
+                {
+                    "blank": 26,
+                    "code": 151,
+                    "comment": 11,
+                    "filename": "src/components/Modal/LoginAuth/AuthLoginInputs.jsx"
+                },
+                {
+                    "blank": 9,
+                    "code": 42,
+                    "comment": 0,
+                    "filename": "src/components/Modal/LoginAuth/LoginModal.jsx"
+                },
+                {
+                    "blank": 11,
+                    "code": 38,
+                    "comment": 0,
+                    "filename": "src/components/Navbar/Directory/Directory.jsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 31,
+                    "comment": 0,
+                    "filename": "src/components/Navbar/Navbar.jsx"
+                },
+                {
+                    "blank": 5,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "src/components/Navbar/RightContent/AuthButtons.jsx"
+                },
+                {
+                    "blank": 14,
+                    "code": 76,
+                    "comment": 0,
+                    "filename": "src/components/Navbar/RightContent/Icons.jsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 30,
+                    "comment": 0,
+                    "filename": "src/components/Navbar/RightContent/RightContent.jsx"
+                },
+                {
+                    "blank": 15,
+                    "code": 117,
+                    "comment": 0,
+                    "filename": "src/components/Navbar/RightContent/UserMenu.jsx"
+                },
+                {
+                    "blank": 7,
+                    "code": 38,
+                    "comment": 0,
+                    "filename": "src/components/Navbar/SearchInput.jsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "src/components/utils/service.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src/index.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "src/index.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 17,
+                    "comment": 3,
+                    "filename": "src/store/Authentication/authenticationstore.js"
+                },
+                {
+                    "blank": 8,
+                    "code": 10,
+                    "comment": 1,
+                    "filename": "src/store/Authentication/loginstate.js"
+                },
+                {
+                    "blank": 7,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "src/store/Authentication/signupstate.js"
+                }
+            ]
+        }
+    ]
+}
